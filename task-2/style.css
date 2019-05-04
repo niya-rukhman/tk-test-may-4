@@ -1,0 +1,41 @@
+*{
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Dancing Script';
+}
+    
+}
+#cout1:hover{
+    color: red;
+    cursor: pointer;
+    
+}
+#cout2:hover{
+    color: red;
+    cursor: pointer;
+  
+}
+#cout3:hover{
+    color: red;
+    cursor: pointer;
+   
+}
+#cout4:hover{
+    color: red;
+    cursor: pointer;
+  
+}
+#cout5:hover{
+    color: red;
+    cursor: pointer;
+    
+}
+#cout6:hover{
+    color: red;
+    cursor: pointer;
+
+}
+h1{
+   box-shadow: red;
+}
